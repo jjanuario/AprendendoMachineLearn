@@ -1,12 +1,8 @@
 ### São Paulo 11  de Julho 2019
 # Aprendendo Machine Learn
-
-**Testes**
 $$
 \hat{y} = \theta_0 + \theta_1 x
 $$
-
-==========
 
 #### Sobre o projeto
 Projeto criado para aprender **Machine Learn** e técnicas como Data Science utilizando R, Python, Julia e suas bibliotecas como Pandas, Matplotlib e Numpy.<br/>
